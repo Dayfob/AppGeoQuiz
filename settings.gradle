@@ -1,0 +1,3 @@
+include ':datums-differenz'
+include ':app'
+rootProject.name = "GeoQuiz"

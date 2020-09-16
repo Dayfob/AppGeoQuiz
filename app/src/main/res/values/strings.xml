@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Alikhans GeoQuiz</string>
+    <string name="false_button">False</string>
+    <string name="true_button">True</string>
+    <string name="next_button">Next</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="question_seasons">Are there 4 seasons in year?</string>
+    <string name="question_maths">2 + 2 = 3</string>
+    <string name="question_geography">Are there 2 countries in the world?</string>
+    <string name="question_app">This apps name is Minecraft?</string>
+    <string name="question_day">Now is 2020?</string>
+    <string name="title_activity_main2">MainActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
